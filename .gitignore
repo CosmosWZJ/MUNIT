@@ -1,6 +1,7 @@
 outputs/
 src/models/
 data/
+datasets/
 logs/
 .idea/
 dgx/scripts/
